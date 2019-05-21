@@ -40,3 +40,21 @@
 - cool thank you
 - thanks
 
+## intent:goodbye
+- Bye
+- Goodbye
+- See you later
+- Bye bot
+- Goodbye friend
+- bye
+- bye for now
+- catch you later
+- gotta go
+- See you
+- goodnight
+- have a nice day
+- i'm off
+- see you later alligator
+- we'll speak soon
+- end
+- finish
