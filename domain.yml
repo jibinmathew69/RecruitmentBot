@@ -55,3 +55,16 @@ templates:
   - text: Happy to have helped you!
   utter_goodbye:
   - text: Talk to you later.
+
+actions:
+- utter_greet
+- utter_simple_greet
+- utter_utilities
+- utter_role
+- utter_name
+- utter_check
+- utter_knowmore
+- utter_nothanks
+- utter_goodbye
+- action_check_status
+- action_check_positions
