@@ -149,3 +149,17 @@
 - I have not heard back on my application status.
 - I have'nt heard about by application.
 - What's the update on my status?
+
+## intent:name
+- My name is [sam](PERSON)
+- My name is [sam paul](PERSON)
+- I am [Paul](PERSON)
+- I am [paul thomas](PERSON)
+- My name is [George](PERSON)
+- My name is [george xavier](PERSON)
+- This is [Mary](PERSON)
+- [George](PERSON)
+- [george](PERSON)
+- [Mary john](PERSON)
+- [mary](PERSON)
+- [jibin mathew](PERSON)
