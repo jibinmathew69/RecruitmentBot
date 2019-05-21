@@ -1,0 +1,14 @@
+%YAML 1.1
+---
+intents:
+- affirm
+- deny
+- thanks
+- goodbye
+- greet
+- position
+- greet+position
+- status
+- name
+- greet+name+status
+
