@@ -24,3 +24,6 @@ def create_nlu(data_file="data/nlu_data.md",
     model_directory = trainer.persist("./models/nlu", fixed_model_name="current")
 
     return interpreter, model_directory
+
+if __name__ == '__main__':
+    create_nlu()
