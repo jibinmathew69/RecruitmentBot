@@ -43,4 +43,16 @@ Start a new terminal and type the command,
 ```
 python dialogue_management.py
 ```
-And chat with with Recruitment bot. 
+And chat with with Recruitment bot.<br> 
+#### Running Bot in Interactive mode
+For Interactive training, Run the command in terminal, and keep it running
+
+```
+python -m rasa_core_sdk.endpoint --actions actions
+
+```
+Start a new terminal and type the command,
+```
+python train_dialogue.py
+```
+And dynamically create storyboard and training data for your bot.
