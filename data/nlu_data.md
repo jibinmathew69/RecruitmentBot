@@ -137,3 +137,15 @@
 - greetings, do you have jobs
 - hello everybody,I would like to get a job with you
 - hello is anybody there, Can I know about open positions?
+
+## intent:status
+- I applied for a job and would like to know when I’ll hear back.
+- I would like to know about my appilication status.
+- What's the update on my status?
+- Can I have an update on my application status
+- Where can I have an update on my application status
+- what's my application update?
+- May I know what's my application update?
+- I have not heard back on my application status.
+- I have'nt heard about by application.
+- What's the update on my status?
