@@ -16,3 +16,16 @@ entities:
 - role_type
 - PERSON
 
+slots:
+  PERSON:
+    type: text
+  positions:
+    type: list
+  role_type:
+    type: categorical
+    values:
+    - technical
+    - business
+    - any
+  status:
+    type: text
