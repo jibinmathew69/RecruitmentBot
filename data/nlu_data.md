@@ -163,3 +163,11 @@
 - [Mary john](PERSON)
 - [mary](PERSON)
 - [jibin mathew](PERSON)
+
+## intent:greet+name+status
+- Hi, my name is [Ali Park](PERSON). I applied for a job and would like to know when I’ll hear back
+- hello, I am [jibin](PERSON), update me on my application status
+- Hi, my name is [mary](PERSON). I applied for a job and would like to know when I’ll hear back
+- hello, I am [joseph](PERSON), update me on my application status
+- hello, I am [Arya](PERSON), update me on my application status
+- Hi, my name is [mathew](PERSON). I applied for a job and would like to know when I’ll hear back
