@@ -122,3 +122,18 @@
 - position
 - [any](roletype) role
 - [any](roletype)
+
+## intent:greet+position
+- Hi,Can I know about open positions?
+- Hey, Do you have any openings?
+- Hi bot, do you have any vacancies
+- Hey bot, I’d like to know which positions are open right now
+- Hello, Can I know about open positions?
+- hi again, I would like to get a job with you
+- hi folks, Can I know about open positions?
+- hi Mister,Do you have any openings?
+- hi pal! tell me about open positions
+- hi there,Can I know about open positions?
+- greetings, do you have jobs
+- hello everybody,I would like to get a job with you
+- hello is anybody there, Can I know about open positions?
