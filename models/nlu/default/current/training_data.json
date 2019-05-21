@@ -1,0 +1,1037 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "affirm",
+        "text": "y"
+      },
+      {
+        "intent": "affirm",
+        "text": "Y"
+      },
+      {
+        "intent": "affirm",
+        "text": "ya"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes sure"
+      },
+      {
+        "intent": "affirm",
+        "text": "absolutely"
+      },
+      {
+        "intent": "affirm",
+        "text": "for sure"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes yes yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "definitely"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes, it did."
+      },
+      {
+        "intent": "affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "intent": "deny",
+        "text": "never"
+      },
+      {
+        "intent": "deny",
+        "text": "nope"
+      },
+      {
+        "intent": "deny",
+        "text": "I don't think so"
+      },
+      {
+        "intent": "deny",
+        "text": "don't like that"
+      },
+      {
+        "intent": "deny",
+        "text": "no way"
+      },
+      {
+        "intent": "deny",
+        "text": "not really"
+      },
+      {
+        "intent": "deny",
+        "text": "n"
+      },
+      {
+        "intent": "deny",
+        "text": "N"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you so much"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thanks bot"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thanks for that"
+      },
+      {
+        "intent": "thanks",
+        "text": "cheers"
+      },
+      {
+        "intent": "thanks",
+        "text": "cheers bro"
+      },
+      {
+        "intent": "thanks",
+        "text": "ok thanks!"
+      },
+      {
+        "intent": "thanks",
+        "text": "perfect thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks a bunch for everything"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks for the help"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks a lot"
+      },
+      {
+        "intent": "thanks",
+        "text": "amazing, thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "cool, thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "cool thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "See you later"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Bye bot"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Goodbye friend"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye for now"
+      },
+      {
+        "intent": "goodbye",
+        "text": "catch you later"
+      },
+      {
+        "intent": "goodbye",
+        "text": "gotta go"
+      },
+      {
+        "intent": "goodbye",
+        "text": "See you"
+      },
+      {
+        "intent": "goodbye",
+        "text": "goodnight"
+      },
+      {
+        "intent": "goodbye",
+        "text": "have a nice day"
+      },
+      {
+        "intent": "goodbye",
+        "text": "i'm off"
+      },
+      {
+        "intent": "goodbye",
+        "text": "see you later alligator"
+      },
+      {
+        "intent": "goodbye",
+        "text": "we'll speak soon"
+      },
+      {
+        "intent": "goodbye",
+        "text": "end"
+      },
+      {
+        "intent": "goodbye",
+        "text": "finish"
+      },
+      {
+        "intent": "greet",
+        "text": "Hi"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "intent": "greet",
+        "text": "Hi bot"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey bot"
+      },
+      {
+        "intent": "greet",
+        "text": "Hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "hi again"
+      },
+      {
+        "intent": "greet",
+        "text": "hi folks"
+      },
+      {
+        "intent": "greet",
+        "text": "hi Mister"
+      },
+      {
+        "intent": "greet",
+        "text": "hi pal!"
+      },
+      {
+        "intent": "greet",
+        "text": "hi there"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings"
+      },
+      {
+        "intent": "greet",
+        "text": "hello everybody"
+      },
+      {
+        "intent": "greet",
+        "text": "hello is anybody there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello robot"
+      },
+      {
+        "intent": "greet",
+        "text": "who are you?"
+      },
+      {
+        "intent": "greet",
+        "text": "what are you?"
+      },
+      {
+        "intent": "greet",
+        "text": "what's up"
+      },
+      {
+        "intent": "greet",
+        "text": "how do you do?"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "jill",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hi, this is jill"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 15,
+            "end": 21,
+            "value": "steven",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hello, this is steven"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 16,
+            "end": 22,
+            "value": "steven",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hey, my name is steven"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 14,
+            "end": 18,
+            "value": "john",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hola, this is john"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 16,
+            "end": 22,
+            "value": "steven",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hey, my name is steven"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 10,
+            "end": 14,
+            "value": "Jack",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hey, I am Jack"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 16,
+            "end": 22,
+            "value": "steven",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hey, my name is steven"
+      },
+      {
+        "intent": "greet",
+        "entities": [
+          {
+            "start": 7,
+            "end": 13,
+            "value": "steven",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hello, steven is my name"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "position",
+        "text": "I’d like to know which positions are open right now"
+      },
+      {
+        "intent": "position",
+        "text": "Can I know about open positions?"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 12,
+            "end": 15,
+            "value": "any",
+            "entity": "roletype"
+          }
+        ],
+        "text": "Do you have any openings?"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 12,
+            "end": 15,
+            "value": "any",
+            "entity": "roletype"
+          }
+        ],
+        "text": "Do you have any opportunities available?"
+      },
+      {
+        "intent": "position",
+        "text": "I would like to get a job with you"
+      },
+      {
+        "intent": "position",
+        "text": "do you have jobs"
+      },
+      {
+        "intent": "position",
+        "text": "I want to join your company"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 2,
+            "end": 11,
+            "value": "technical",
+            "entity": "role_type"
+          }
+        ],
+        "text": "A technical one"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 2,
+            "end": 10,
+            "value": "business",
+            "entity": "role_type"
+          }
+        ],
+        "text": "A business one"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 2,
+            "end": 6,
+            "value": "technical",
+            "entity": "role_type"
+          }
+        ],
+        "text": "A tech one"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 2,
+            "end": 12,
+            "value": "business",
+            "entity": "role_type"
+          }
+        ],
+        "text": "A management one"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "technical",
+            "entity": "role_type"
+          }
+        ],
+        "text": "technology"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "technical",
+            "entity": "role_type"
+          }
+        ],
+        "text": "tech"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "business",
+            "entity": "role_type"
+          }
+        ],
+        "text": "management"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "business",
+            "entity": "role_type"
+          }
+        ],
+        "text": "business"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 22,
+            "end": 30,
+            "value": "business",
+            "entity": "role_type"
+          }
+        ],
+        "text": "Can I see some of the business roles?"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 22,
+            "end": 31,
+            "value": "technical",
+            "entity": "role_type"
+          }
+        ],
+        "text": "Can I see some of the technical roles?"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 22,
+            "end": 26,
+            "value": "technical",
+            "entity": "role_type"
+          }
+        ],
+        "text": "Can I see some of the tech roles?"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 14,
+            "end": 18,
+            "value": "technical",
+            "entity": "role_type"
+          }
+        ],
+        "text": "Can I seeking tech roles?"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 23,
+            "end": 27,
+            "value": "technical",
+            "entity": "role_type"
+          }
+        ],
+        "text": "Do you have opening in tech?"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 10,
+            "end": 14,
+            "value": "technical",
+            "entity": "role_type"
+          }
+        ],
+        "text": "how about tech?"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "technical",
+            "entity": "role_type"
+          }
+        ],
+        "text": "show me tech roles"
+      },
+      {
+        "intent": "position",
+        "text": "can i know about open positions?"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "technical",
+            "entity": "role_type"
+          }
+        ],
+        "text": "technical"
+      },
+      {
+        "intent": "position",
+        "text": "tell me about open positions"
+      },
+      {
+        "intent": "position",
+        "text": "do you have any vacancies"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "any",
+            "entity": "role_type"
+          }
+        ],
+        "text": "anything"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "any",
+            "entity": "role_type"
+          }
+        ],
+        "text": "anything is fine"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 13,
+            "end": 21,
+            "value": "any",
+            "entity": "role_type"
+          }
+        ],
+        "text": "I am open to anything"
+      },
+      {
+        "intent": "position",
+        "text": "position"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "any",
+            "entity": "roletype"
+          }
+        ],
+        "text": "any role"
+      },
+      {
+        "intent": "position",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "any",
+            "entity": "roletype"
+          }
+        ],
+        "text": "any"
+      },
+      {
+        "intent": "greet+position",
+        "text": "Hi,Can I know about open positions?"
+      },
+      {
+        "intent": "greet+position",
+        "text": "Hey, Do you have any openings?"
+      },
+      {
+        "intent": "greet+position",
+        "text": "Hi bot, do you have any vacancies"
+      },
+      {
+        "intent": "greet+position",
+        "text": "Hey bot, I’d like to know which positions are open right now"
+      },
+      {
+        "intent": "greet+position",
+        "text": "Hello, Can I know about open positions?"
+      },
+      {
+        "intent": "greet+position",
+        "text": "hi again, I would like to get a job with you"
+      },
+      {
+        "intent": "greet+position",
+        "text": "hi folks, Can I know about open positions?"
+      },
+      {
+        "intent": "greet+position",
+        "text": "hi Mister,Do you have any openings?"
+      },
+      {
+        "intent": "greet+position",
+        "text": "hi pal! tell me about open positions"
+      },
+      {
+        "intent": "greet+position",
+        "text": "hi there,Can I know about open positions?"
+      },
+      {
+        "intent": "greet+position",
+        "text": "greetings, do you have jobs"
+      },
+      {
+        "intent": "greet+position",
+        "text": "hello everybody,I would like to get a job with you"
+      },
+      {
+        "intent": "greet+position",
+        "text": "hello is anybody there, Can I know about open positions?"
+      },
+      {
+        "intent": "status",
+        "text": "I applied for a job and would like to know when I’ll hear back."
+      },
+      {
+        "intent": "status",
+        "text": "I would like to know about my appilication status."
+      },
+      {
+        "intent": "status",
+        "text": "What's the update on my status?"
+      },
+      {
+        "intent": "status",
+        "text": "Can I have an update on my application status"
+      },
+      {
+        "intent": "status",
+        "text": "Where can I have an update on my application status"
+      },
+      {
+        "intent": "status",
+        "text": "what's my application update?"
+      },
+      {
+        "intent": "status",
+        "text": "May I know what's my application update?"
+      },
+      {
+        "intent": "status",
+        "text": "I have not heard back on my application status."
+      },
+      {
+        "intent": "status",
+        "text": "I have'nt heard about by application."
+      },
+      {
+        "intent": "status",
+        "text": "What's the update on my status?"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 14,
+            "value": "sam",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "My name is sam"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 19,
+            "value": "sam paul",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "My name is sam paul"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 9,
+            "value": "Paul",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "I am Paul"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 16,
+            "value": "paul thomas",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "I am paul thomas"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 17,
+            "value": "George",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "My name is George"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 24,
+            "value": "george xavier",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "My name is george xavier"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "Mary",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "This is Mary"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "George",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "George"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "george",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "george"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Mary john",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "Mary john"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "mary",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "mary"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "jibin mathew",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "jibin mathew"
+      },
+      {
+        "intent": "greet+name+status",
+        "entities": [
+          {
+            "start": 15,
+            "end": 23,
+            "value": "Ali Park",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "Hi, my name is Ali Park. I applied for a job and would like to know when I’ll hear back"
+      },
+      {
+        "intent": "greet+name+status",
+        "entities": [
+          {
+            "start": 12,
+            "end": 17,
+            "value": "jibin",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hello, I am jibin, update me on my application status"
+      },
+      {
+        "intent": "greet+name+status",
+        "entities": [
+          {
+            "start": 15,
+            "end": 19,
+            "value": "mary",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "Hi, my name is mary. I applied for a job and would like to know when I’ll hear back"
+      },
+      {
+        "intent": "greet+name+status",
+        "entities": [
+          {
+            "start": 12,
+            "end": 18,
+            "value": "joseph",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hello, I am joseph, update me on my application status"
+      },
+      {
+        "intent": "greet+name+status",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "Arya",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "hello, I am Arya, update me on my application status"
+      },
+      {
+        "intent": "greet+name+status",
+        "entities": [
+          {
+            "start": 15,
+            "end": 21,
+            "value": "mathew",
+            "entity": "PERSON"
+          }
+        ],
+        "text": "Hi, my name is mathew. I applied for a job and would like to know when I’ll hear back"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "technical",
+        "synonyms": [
+          "tech",
+          "technology"
+        ]
+      },
+      {
+        "value": "business",
+        "synonyms": [
+          "management"
+        ]
+      },
+      {
+        "value": "any",
+        "synonyms": [
+          "anything"
+        ]
+      }
+    ]
+  }
+}
