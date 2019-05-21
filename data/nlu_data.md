@@ -1,0 +1,12 @@
+## intent:affirm
+- y
+- Y
+- ya
+- yes
+- yes sure
+- absolutely
+- for sure
+- yes yes yes
+- definitely
+- yes, it did.
+- yes
