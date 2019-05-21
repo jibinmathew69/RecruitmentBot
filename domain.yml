@@ -12,3 +12,7 @@ intents:
 - name
 - greet+name+status
 
+entities:
+- role_type
+- PERSON
+
