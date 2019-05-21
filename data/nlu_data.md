@@ -88,3 +88,37 @@
 - hey, my name is [steven](PERSON)
 - hello, [steven](PERSON) is my name
 - hi
+
+## intent:position
+- I’d like to know which positions are open right now
+- Can I know about open positions?
+- Do you have [any](roletype) openings?
+- Do you have [any](roletype) opportunities available?
+- I would like to get a job with you
+- do you have jobs
+- I want to join your company
+- A [technical](role_type) one
+- A [business](role_type) one
+- A [tech](role_type:technical) one
+- A [management](role_type:business) one
+- [technology](role_type:technical)
+- [tech](role_type:technical)
+- [management](role_type:business)
+- [business](role_type)
+- Can I see some of the [business](role_type) roles?
+- Can I see some of the [technical](role_type) roles?
+- Can I see some of the [tech](role_type:technical) roles?
+- Can I seeking [tech](role_type:technical) roles?
+- Do you have opening in [tech](role_type:technical)?
+- how about [tech](role_type:technical)?
+- show me [tech](role_type:technical) roles
+- can i know about open positions?
+- [technical](role_type)
+- tell me about open positions
+- do you have any vacancies
+- [anything](role_type:any)
+- [anything](role_type:any) is fine
+- I am open to [anything](role_type:any)
+- position
+- [any](roletype) role
+- [any](roletype)
