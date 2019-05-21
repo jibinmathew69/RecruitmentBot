@@ -12,6 +12,7 @@ class ActionCheckStatus(Action):
         # return a random status, just a mockup
         statuses = ["received", "rejected", "interview", "unknown"]
         status = random.choice(statuses)
+        dispatcher.utter_message("Yes, your application has been "+status+".")
         return [SlotSet("status", status)]
 
 
