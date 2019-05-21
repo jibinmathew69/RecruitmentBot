@@ -35,4 +35,15 @@ class ActionCheckPositions(Action):
             relevant_positions = positions["technical"] + positions["business"]
         else:
             relevant_positions = positions.get(position_type, [])
+
+        if len(relevant_positions) > 1:
+            position_text = ", ".join(relevant_positions[:-1])
+            position_text+=" and "+relevant_positions[-1]+" are the open positions."
+        elif len(relevant_positions) == 1:
+            position_text = relevant_positions[0] + " is an open posiiton"
+        else:
+            position_text = "There are no open positions"
+
+        dispatcher.utter_message(position_text)
+
         return [SlotSet("positions", relevant_positions)]
